@@ -1,7 +1,7 @@
 # Progetto di Algoritmi e Principi dell'Informatica
 
 ## Schema del progetto
-[![Schema](ReadmeFiles/UMLProgettoApi.png)](ReadmeFiles/UMLProgettoApi.pdf)
+[![Schema](ReadmeFiles/ReadmeFiles/UMLProgettoApi.png)](ReadmeFiles/ReadmeFiles/UMLProgettoApi.pdf)
 
 
 ## Descrizione del Progetto
