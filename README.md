@@ -1,11 +1,10 @@
 # Progetto di Algoritmi e Principi dell'Informatica
 
-## Schema del progetto
-[![Schema](ReadmeFiles/ReadmeFiles/UMLProgettoApi.png)](ReadmeFiles/ReadmeFiles/UMLProgettoApi.pdf)
-
-
 ## Descrizione del Progetto
 Questo progetto è stato sviluppato come parte della mia tesi di laurea triennale. Il programma principale confronta due parole di ugual lunghezza e fornisce feedback basati sulla correttezza e posizione delle lettere. Il gioco include diverse fasi, dalla lettura delle parole ammissibili all'elaborazione dei tentativi dell'utente per indovinare la parola corretta.
+
+### Schema del progetto
+[![Schema](ReadmeFiles/ReadmeFiles/UMLProgettoApi.png)](ReadmeFiles/ReadmeFiles/UMLProgettoApi.pdf)
 
 ### Caratteristiche del Gioco
 - **Input delle Parole**: Accetta parole formate da lettere maiuscole e minuscole, cifre numeriche, e i simboli '-' e '_'.
